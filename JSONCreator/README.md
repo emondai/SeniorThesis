@@ -12,7 +12,7 @@ Gain Possession,3034110,1500,Arsenal,J. Wilshere 19,,"13,8",,,,Marked,Front,Line
 
 <h2>Sample Output:</h2>
 ```json
-{
+    {
       "team": "Arsenal",
       "passer": "Cesc Fabregas 4",
       "receiver": "R. van Persie 10",
@@ -23,7 +23,8 @@ Gain Possession,3034110,1500,Arsenal,J. Wilshere 19,,"13,8",,,,Marked,Front,Line
       "receiveY": 47,
       "timeOfPossession": 3000,
       "timeElapsed": 3000
-    },
+    }
+      ,
     {
       "team": "Arsenal",
       "passer": "R. van Persie 10",
