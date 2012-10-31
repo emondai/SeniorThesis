@@ -1,6 +1,6 @@
 Overview
 ===
-This file takes a StatDNA CSV data file and converts it to a more human readable JSON file. Only the relevant information needed for animations and passing/shooting statistics is retained.
+This file takes a [StatDNA](http://www.statdna.com) CSV data file and converts it to a more human readable JSON file. Only the relevant information needed for animations and passing/shooting statistics is retained.
 
 <h2>Sample Input:</h2>
 
@@ -39,3 +39,4 @@ Gain Possession,3034110,1500,Arsenal,J. Wilshere 19,,"13,8",,,,Marked,Front,Line
       "timeElapsed": 6000
     }
 ```
+
