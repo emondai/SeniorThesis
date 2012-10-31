@@ -1,6 +1,6 @@
 Overview
 ===
-This file takes a [StatDNA](http://www.statdna.com) CSV data file and converts it to a more human readable JSON file. Only the relevant information needed for animations and passing/shooting statistics is retained.
+This java program takes a [StatDNA](http://www.statdna.com) CSV data file and converts it to a more human readable JSON file. Only the relevant information needed for animations and passing/shooting statistics is retained.
 
 <h2>Sample Input:</h2>
 
