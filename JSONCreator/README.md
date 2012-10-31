@@ -5,6 +5,7 @@ This file takes a StatDNA CSV data file and converts it to a more human readable
 <h2>Sample Input:</h2>
 
 ```
+Name,Position,Duration,Home Team,Home Player,Away Team,Field Position,Away Player,Unsure,Shot Location,Pressure,Body Position,Line,Goalie Position,Shot Power
 Pass Ground,3033150,3000,Arsenal,Cesc Fabregas 4,,"0,1",,,,No Pressure,Sideways,Line 0,,
 Pass Ground (1),3033470,3000,Arsenal,R. van Persie 10,,"1,-2",,,,Marked,Sideways,Line 0,,
 Gain Possession,3034110,1500,Arsenal,J. Wilshere 19,,"13,8",,,,Marked,Front,Line 0,,
