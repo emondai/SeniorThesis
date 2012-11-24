@@ -77,13 +77,6 @@ namespace SeniorThesis
             foreach (var player in passes)
                 Console.WriteLine(player.Key + "-> Missed: " + player.Value[0] + ", Completed: "+ player.Value[1]);//Prints list of all players and their pass %
 
-            var passPercentage = new Dictionary<string, double>();
-            foreach (var player in passes)
-                passPercentage[player.Key] = (player.Value[1]/(player.Value[0]+player.Value[1]));
-
-            foreach (var player in passPercentage)
-                Console.WriteLine(player.Key + " -> " + string.Format("{0:0.0%}", player.Value));
-
             return passes;
         }
 
